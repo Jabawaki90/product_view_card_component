@@ -31,7 +31,7 @@ const App = () => {
               //   borderTopRightRadius: "0px",
               // }}
               alt="example"
-              src={"./image/image-product-mobile.jpg"}
+              src={"images/image-product-mobile.jpg"}
             />
           }
         >
@@ -51,7 +51,7 @@ const App = () => {
                 borderTopRightRadius: "0px",
               }}
               alt="example"
-              src={"./image/image-product-desktop.jpg"}
+              src={"images/image-product-desktop.jpg"}
             />
           }
         >

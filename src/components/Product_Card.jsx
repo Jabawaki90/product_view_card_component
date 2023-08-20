@@ -1,6 +1,6 @@
 import { Button } from "antd";
 import "./Product_Card.scss";
-import { ReactComponent as Cart } from "../assets/icon-cart.svg";
+import { ReactComponent as Cart } from "../../public/icon-cart.svg";
 
 const Product_Card = (props) => {
   return (
